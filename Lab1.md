@@ -1,3 +1,7 @@
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab1.png)
+
+
+
 # Описание акторов и их действий в системе
 
 ## Пользователь:
