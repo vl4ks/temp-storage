@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab2.jpg)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/erd4.png)
 
 
 # Сущности
