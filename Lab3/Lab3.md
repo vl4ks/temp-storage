@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/UML-diagram3-2.drawio.png)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-2.drawio.png)
 
 # Классы
 
