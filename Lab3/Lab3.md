@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-4-4.drawio.png)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-4-5.drawio.png)
 
 # Классы
 
@@ -52,9 +52,6 @@
 **Поля:**
 - `services` - для списка услуг, созданных этим админом
 
-**Связи:**
-- Ассоциация с `Service` - администратор создаёт и редактирует услуги, администратор добавляет и изменяет правила для услуг.
-
 ---
 
 ## 1.5. Application
@@ -70,8 +67,8 @@
 
 **Связи:**
 - Агрегация с `Service` (заявка не существует без услуги)
-- Ассоциация с `User` (заявка принадлежит пользователю)
-- Ассоциация с `GovernmentServant` (Заявка знает, какой госслужащий её обрабатывает)
+- Агрегация с `User` (заявка принадлежит пользователю)
+- Агрегация с `GovernmentServant` (Заявка знает, какой госслужащий её обрабатывает)
 - Использует `ApplicationStatus` (зависимость)
 
 ---
@@ -266,6 +263,6 @@
 - `REJECT` - отклонить
 
 **Связи:**
-Ассоциация в `AuthService`, `ApplicationProcessingService`, `UserRepository`.
+Агрегация в `AuthService`, `ApplicationProcessingService`, `UserRepository`.
 
-Ассоциация между `AccountRole` и `Account`.
+Агрегация между `AccountRole` и `Account`.
