@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-4-5.drawio.png)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-5.drawio.png)
 
 # Классы
 
@@ -52,6 +52,8 @@
 **Поля:**
 - `services` - для списка услуг, созданных этим админом
 
+**Связь:**
+- Агрегация с Service.
 ---
 
 ## 1.5. Application
@@ -263,6 +265,6 @@
 - `REJECT` - отклонить
 
 **Связи:**
-Агрегация в `AuthService`, `ApplicationProcessingService`, `UserRepository`.
+Зависимость с `AuthService`, `ApplicationProcessingService`, `UserRepository`.
 
-Агрегация между `AccountRole` и `Account`.
+Зависимость между `AccountRole` и `Account`.
