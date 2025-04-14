@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-5.drawio.png)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-6.drawio.png)
 
 # Классы
 
@@ -231,6 +231,7 @@
 - `authService` - используется администратором для проверки своих учётных данных и получения прав доступа.
 - `serviceManagementService` - используется администратором для создания новых услуг, добавления правил к услугам и получения информации об услугах.
 - `userProfileService` - используется администратором для создания учеток для пользователей, госслужащих и админов
+- `ruleValidationService` - для проверки соответствия правил и управления ими
 
 **Методы:**
 - `createService()` – создание новой услуги
@@ -267,6 +268,6 @@
 - `REJECT` - отклонить
 
 **Связи:**
-Зависимость с `AuthService`, `ApplicationProcessingService`, `UserRepository`.
+Агрегация с `AuthService`, `ApplicationProcessingService`, `UserRepository`.
 
-Зависимость между `AccountRole` и `Account`.
+Агрегация между `AccountRole` и `Account`.
