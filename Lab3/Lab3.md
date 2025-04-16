@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-7.drawio.png)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-8.drawio.png)
 
 # Классы
 
@@ -134,6 +134,7 @@
 
 **Поля:**
 - `accountRepository` - для взаимодействия с репозиторием
+- `applicationRepository` - для работы с заявками
 
 **Методы:**
 - `submitApplication()` – создает новую заявку
@@ -144,6 +145,7 @@
 - `getUserRole()` - для получения роли пользователя
 
 **Связь:** Агрегация с `AccountRepository` - сервис тесно связан с репозиторием и использует его для доступа к данным пользователей.
+Агрегация с `ApplicationRepository`- для работы с заявками
 
 
 ### **ApplicationProcessingService**
