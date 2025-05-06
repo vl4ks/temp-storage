@@ -1,4 +1,4 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-10.drawio.png)
+![UseCase]()
 
 
 
@@ -260,4 +260,4 @@
 **Связи:**
 Зависимость с `AccountService`, `ApplicationProcessingService`, `AccountRepository`.
 
-Агрегация между `AccountRole` и `Account`, `ApplicationStatus` и `Application`.
+Зависимость между `AccountRole` и `Account`, `ApplicationStatus` и `Application`.
