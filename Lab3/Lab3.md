@@ -1,6 +1,6 @@
-![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-9.drawio.png)
+![UseCase](https://github.com/vl4ks/temp-storage/blob/main/Lab3/UML-diagram3-10.drawio.png)
 
-На диаграмме внизу классы моделей вынесены вниз для удобства построения линий связи между контроллерами.
+
 
 # Классы
 
