@@ -1,48 +1,48 @@
 ## 1. Авторизация
 
-![Авторизация](https://github.com/vl4ks/temp-storage/blob/main/Lab4/авторизация.png)
+![Авторизация]()
 
 
 ---
 
 ## 2. Добавление правил
 
-![Добавление правил](https://github.com/vl4ks/temp-storage/blob/main/Lab4/добавлениеПравил.png)
+![Добавление правил]()
 
 
 ---
 
 ## 3. Добавление результата
 
-![Добавление результата](https://github.com/vl4ks/temp-storage/blob/main/Lab4/добавлениеРезультата.png)
+![Добавление результата]()
 
 
 ---
 
 ## 4. Изменение параметров
 
-![Изменение параметров](https://github.com/vl4ks/temp-storage/blob/main/Lab4/изменениеПараметров.png)
+![Изменение параметров]()
 
 
 ---
 
 ## 5. Изменение статуса
 
-![Изменение статуса](https://github.com/vl4ks/temp-storage/blob/main/Lab4/изменениеСтатуса.png)
+![Изменение статуса]()
 
 
 ---
 
 ## 6. Отмена заявления
 
-![Отмена заявления](https://github.com/vl4ks/temp-storage/blob/main/Lab4/отменаЗаявления.png)
+![Отмена заявления]()
 
 
 ---
 
 ## 7. Подача заявления
 
-![Подача заявления](https://github.com/vl4ks/temp-storage/blob/main/Lab4/подачаЗаявления.png)
+![Подача заявления]()
 
 
 ---
@@ -56,7 +56,7 @@
 
 ## 9. Просмотр услуг
 
-![Просмотр услуг](https://github.com/vl4ks/temp-storage/blob/main/Lab4/просмотрУслуг.png)
+![Просмотр услуг]()
 
 
 ---
