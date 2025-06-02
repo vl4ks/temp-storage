@@ -1,0 +1,9 @@
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\bin\Debug\projectPis.exe.config
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\bin\Debug\projectPis.exe
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\bin\Debug\projectPis.pdb
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\obj\Debug\projectPis.csproj.AssemblyReference.cache
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\obj\Debug\projectPis.Properties.Resources.resources
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\obj\Debug\projectPis.csproj.GenerateResource.cache
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\obj\Debug\projectPis.csproj.CoreCompileInputs.cache
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\obj\Debug\projectPis.exe
+D:\ПИС\PIS2\pis2-migrant-project\projectPis\obj\Debug\projectPis.pdb
